@@ -1,0 +1,9 @@
+C:\Users\Subeh\source\repos\person\person\bin\Debug\person.exe.config
+C:\Users\Subeh\source\repos\person\person\bin\Debug\person.exe
+C:\Users\Subeh\source\repos\person\person\bin\Debug\person.pdb
+C:\Users\Subeh\source\repos\person\person\obj\Debug\person.csprojAssemblyReference.cache
+C:\Users\Subeh\source\repos\person\person\obj\Debug\person.person.resources
+C:\Users\Subeh\source\repos\person\person\obj\Debug\person.Properties.Resources.resources
+C:\Users\Subeh\source\repos\person\person\obj\Debug\person.csproj.GenerateResource.cache
+C:\Users\Subeh\source\repos\person\person\obj\Debug\person.exe
+C:\Users\Subeh\source\repos\person\person\obj\Debug\person.pdb
